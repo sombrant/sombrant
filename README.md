@@ -6,11 +6,9 @@
 
 <h2 align="center" id="languages">Languages</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/Node.JS-151515.svg?style=for-the-badge&logo=html&logoColor=9f9f9f"></a>
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.JS-151515.svg?style=for-the-badge&logo=node.js&logoColor=9f9f9f"></a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/C Sharp-151515.svg?style=for-the-badge&logo=c sharp&logoColor=9f9f9f"></a>
-  <a href="https://en.wikipedia.org/wiki/Visual_Basic_(.NET)"><img src="https://img.shields.io/badge/VB.NET-151515.svg?style=for-the-badge&logo=.net&logoColor=9f9f9f"></a>
-  <a href="https://en.wikipedia.org/wiki/Shell_script"><img src="https://img.shields.io/badge/Shell-151515.svg?style=for-the-badge&logo=linux&logoColor=9f9f9f"></a>
-  <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://img.shields.io/badge/PowerShell-151515.svg?style=for-the-badge&logo=powershell&logoColor=9f9f9f"></a>
   <a href="https://en.wikipedia.org/wiki/Batch_file/"><img src="https://img.shields.io/badge/Batch-151515.svg?style=for-the-badge&logo=Windows Terminal&logoColor=9f9f9f"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-151515.svg?style=for-the-badge&logo=Python&logoColor=9f9f9f"></a>
 </a>
