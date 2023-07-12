@@ -14,5 +14,5 @@
 <h2 align="center" id="stats">Statistics</h2>
 <p align="center">
   <a href="https://github.com/M4lware-01"><img src="https://github-readme-stats.vercel.app/api?username=M4lware-01&show_icons=true&title_color=fff&icon_color=9f9f9f&text_color=9f9f9f&bg_color=151515"></a><br>
-  <a href="https://github.com/M4lware-01"><img href="https://github.com/M4lware-01" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4lware-01&title_color=9f9f9f&text_color=9f9f9f&bg_color=151515&layout=compact"></a><br>
+  <a href="https://github.com/M4lware-01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4lware-01&title_color=9f9f9f&text_color=9f9f9f&bg_color=151515&layout=compact"></a><br>
 </p>
