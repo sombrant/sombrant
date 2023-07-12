@@ -6,8 +6,6 @@
 
 <h2 align="center" id="languages">Languages</h2>
 <p align="center">
-  <img alt="W3C Validation" src="https://img.shields.io/w3c-validation/html">
-  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.JS-151515.svg?style=for-the-badge&logo=node.js&logoColor=9f9f9f"></a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/C Sharp-151515.svg?style=for-the-badge&logo=c sharp&logoColor=9f9f9f"></a>
   <a href="https://en.wikipedia.org/wiki/Batch_file/"><img src="https://img.shields.io/badge/Batch-151515.svg?style=for-the-badge&logo=Windows Terminal&logoColor=9f9f9f"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-151515.svg?style=for-the-badge&logo=Python&logoColor=9f9f9f"></a>
