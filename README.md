@@ -10,7 +10,7 @@
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/C%20Sharp-151515.svg?style=for-the-badge&logo=csharp&logoColor=9f9f9f"></a>
   <a href="https://en.wikipedia.org/wiki/Batch_file"><img src="https://img.shields.io/badge/Batch-151515.svg?style=for-the-badge&logo=windows&logoColor=9f9f9f"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-151515.svg?style=for-the-badge&logo=python&logoColor=9f9f9f"></a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/Assembly-151515.svg?style=for-the-badge&logo=chip&logoColor=9f9f9f"></a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/Assembly-151515.svg?style=for-the-badge&logo=java&logoColor=9f9f9f"></a> <!-- Utilisation de l'icône générique pour Assembly -->
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.shields.io/badge/Bash-151515.svg?style=for-the-badge&logo=gnubash&logoColor=9f9f9f"></a>
   <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://img.shields.io/badge/PowerShell-151515.svg?style=for-the-badge&logo=powershell&logoColor=9f9f9f"></a>
 </p>
